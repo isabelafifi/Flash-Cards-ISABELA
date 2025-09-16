@@ -1,12 +1,3 @@
-
-criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
-
-
-
 criaCartao(
     'Conhecimentos gerais',
     'Quantas patas uma formiga possui?',
@@ -14,8 +5,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática'
-'Quantos anos tem um século?',
+    'Matemática',
+    'Quantos anos tem um século?',
     '100'
 )
 
